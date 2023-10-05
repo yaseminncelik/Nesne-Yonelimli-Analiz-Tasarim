@@ -1,1 +1,1 @@
-# Nesne-Yonelimli-Analiz-Tasarim
+Java kullanarak soğutucu kontrol cihazı projesi yapıldı.
